@@ -1,0 +1,21 @@
+.container,
+h1 {
+  margin-inline: auto;
+  max-width: 15rem;
+}
+
+#color-box {
+  width: 30rem;
+  height: 30rem;
+  background-color: blue;
+}
+
+#change-color-btn {
+  font-size: 1.5rem;
+  padding: 1rem;
+  border-radius: 2rem;
+  color: white;
+  background-color: red;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
